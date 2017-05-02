@@ -1,36 +1,14 @@
-Github ÎÊÌâ¼¯£¨1£©
+Github é—®é¢˜é›†ï¼ˆ1ï¼‰
 
-1.githubÊÇÊ²Ã´
-	IT¼¼ÊõÈËµÄÉç½»Èí¼þ£¬¿ªÔ´ÍÆ¹ãµÄÆ½Ì¨
-2.gitÊÇÊ²Ã´
-	Ãâ·Ñ¡¢¿ªÔ´µÄ·Ö²¼Ê½°æ±¾¿ØÖÆÏµÍ³
-3.githubµÄºÃ´¦
-	¼ò½àÊµÓÃÉÏÊÖ¿ì£¬¿ÉÓÃÐÔºÃ£¨ºÜÉÙ·ÃÎÊÓÐÎÊÌâ£©£¬ÔÚÄÄÀï¶¼¿ÉÒÔ»ñµÃ´úÂë¡¢Ìá½»
-4.githubµÄÓÅÊÆ
-	ÔÚÏß±à¼­¡¢ÔÚÏßÐÞ¸Ä¡¢Éç½»ÍøÂçÔªËØ¡¢ÌØÉ«¹¤×÷Ä£Ê½¡¢Ë½ÓÐ²Ö¿âÍÐ¹Ü
-5.Í¨¹ýgithubÄê¶È±¨¸æÈÃÄã¼ÇÒä×îÉî¿ÌµÄÐÅÏ¢ÓÉÄÄÐ©
-	580+ Íò»îÔ¾ÓÃ»§£»
-	33.1 Íò»îÔ¾×éÖ¯£¨organization£©£»
-	1940 Íò»îÔ¾ Repos£»
-	1070 Íò»îÔ¾ issues
-	githubÖÐÓïÑÔÅÅÐÐ°ñ
-		JavascriptµÚÒ» JavaµÚ¶þ PythonµÚÈý
-6.githubÉÏÓÐ¿ÉÒÔ¸öÈËÕËºÅ »¹¿ÉÒÔÓÐ£¨ ÆóÒµ¡¢×éÖ¯£©ÕËºÅ
-7.githubÉÏÃæµÄÁ½¸ö×é³ÉÒªËØÊÇÊ²Ã´
-	ÈË/×éÖ¯£¬²Ö¿â/ÏîÄ¿
-8.githubÉÏÁ½¸öÖØÒªÒ³Ãæ
-	Overview£¨¸öÈËÖ÷Ò³£©£¬Êý×ÖÒÇ±í°å
-9.Ö÷Ò³²Ëµ¥¶¼°üº¬Ê²Ã´
-	Overview£¨¸ÅÀÀ£©£¬Repositories£¨²Ö¿â£©£¬Stars£¨ÊÕ²Ø£©£¬Followers£¬Following
-10.²Ö¿âµÄÐÄÌøÏß´ú±íÊ²Ã´
-	ÏîÄ¿»îÔ¾¶È
-11.starµÄ×÷ÓÃÊÇ£¿
-	¹Ø×¢±ðÈËÏîÄ¿¸üÐÂ£¬ÊÕ²Ø¹¦ÄÜ
-12.forkµÄ×÷ÓÃÊÇ£¿
-	´´½¨Ô­ÏîÄ¿´úÂë¿âµÄ·ÖÖ§£¬²¢¿½±´µ½×Ô¼ºÕËºÅÖÐ
-13.watchµÄ×÷ÓÃÊÇ£¿
-	ÉèÖÃ½ÓÊÕÓÊ¼þÌáÐÑ£¬¸ú×ÙÏîÄ¿£¬ÓÐÐÂ½øÕ¹Ê±·¢ÓÊ¼þ¸ø¹Ø×¢ÈË
-14.ËÑË÷½á¹û·Ö±ðÓÐÄÄÐ©Àà±ð
-	Repositories£¨²Ö¿â£©£¬Code£¨´úÂë£©£¬Commits£¨Ìá½»£©£¬Lssues£¨ÎÊÌâ£©£¬Wikis£¨Î¬»ù£©£¬Users
-15.ÄãÔÚgithubÉÏÍÚµ½Ê²Ã´±¦
+1.githubæ˜¯ä»€ä¹ˆ
+	ITæŠ€æœ¯äººçš„ç¤¾äº¤è½¯ä»¶ï¼Œå¼€æºæŽ¨å¹¿çš„å¹³å°
+2.gitæ˜¯ä»€ä¹ˆ
+	å…è´¹ã€å¼€æºçš„åˆ†å¸ƒå¼ç‰ˆæœ¬æŽ§åˆ¶ç³»ç»Ÿ
+3.githubçš„å¥½å¤„
+	ç®€æ´å®žç”¨ä¸Šæ‰‹å¿«ï¼Œå¯ç”¨æ€§å¥½ï¼ˆå¾ˆå°‘è®¿é—®æœ‰é—®é¢˜ï¼‰ï¼Œåœ¨å“ªé‡Œéƒ½å¯ä»¥èŽ·å¾—ä»£ç ã€æäº¤
+4.githubçš„ä¼˜åŠ¿
+	åœ¨çº¿ç¼–è¾‘ã€åœ¨çº¿ä¿®æ”¹ã€ç¤¾äº¤ç½‘ç»œå…ƒç´ ã€ç‰¹è‰²å·¥ä½œæ¨¡å¼ã€ç§æœ‰ä»“åº“æ‰˜ç®¡
+5.é€šè¿‡githubå¹´åº¦æŠ¥å‘Šè®©ä½ è®°å¿†æœ€æ·±åˆ»çš„ä¿¡æ¯ç”±å“ªäº›
+	580+ ä¸‡æ´»è·ƒç”¨æˆ·ï¼›
+	33.1 ä¸‡æ´»è·ƒç»„ç»‡ï¼ˆorganizationï¼‰ï¼›
 	
